@@ -64,3 +64,23 @@ A transformer-based machine learning model developed as part of my bachelor's th
 - Collaborated on model design and implementation
 
 *The source code for this project is private because it is owned by another group member.*
+
+---
+
+# Warehouse Management System (Ongoing)
+
+### Technologies
+
+C# • ASP.NET Core • Flutter • MySQL • REST API • Docker • Git
+
+A personal project focused on developing a warehouse management application for tracking products, inventory and storage locations.
+
+### Key features and implementation
+
+- Full-stack application with Flutter frontend and C# backend
+
+- REST API for communication between frontend and backend
+
+- MySQL database with SQL-based data handling
+
+- Docker-based local database environment
